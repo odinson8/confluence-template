@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.atlassian.audit:atlassian-audit-spi:1.8.4-302e91fc">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atlassian/audit/atlassian-audit-spi/1.8.4-302e91fc/atlassian-audit-spi-1.8.4-302e91fc.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atlassian/audit/atlassian-audit-spi/1.8.4-302e91fc/atlassian-audit-spi-1.8.4-302e91fc-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atlassian/audit/atlassian-audit-spi/1.8.4-302e91fc/atlassian-audit-spi-1.8.4-302e91fc-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,20 @@
+<repository lastmodified='20200627060437.007'>
+  <resource id='veniture.testExtension/1.0.0' symbolicname='veniture.testExtension' presentationname='testExtension' uri='testExtension-1.0.0.jar' version='1.0.0'>
+    <description>This is the veniture:testExtension plugin for Atlassian Confluence.</description>
+    <size>211457</size>
+    <documentation>http://www.example.com/</documentation>
+    <capability name='bundle'>
+      <p n='symbolicname' v='veniture.testExtension'/>
+      <p n='presentationname' v='testExtension'/>
+      <p n='version' t='version' v='1.0.0'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.example.plugins.tutorial.confluence.simplebp.api'/>
+      <p n='version' t='version' v='1.0.0'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=javax.servlet))' extend='false' multiple='false' optional='false'>Import package javax.servlet</require>
+    <require name='package' filter='(&amp;(package=javax.servlet.http))' extend='false' multiple='false' optional='false'>Import package javax.servlet.http</require>
+    <require name='package' filter='(&amp;(package=org.slf4j))' extend='false' multiple='false' optional='false'>Import package org.slf4j</require>
+  </resource>
+</repository>
